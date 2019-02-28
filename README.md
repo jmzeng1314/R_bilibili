@@ -72,7 +72,17 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA398328   点击 RunSelector. [Send 
 
 虽然后面还有十几个视频，但主要是很久以前我的一些R碎片化知识点讲解，并不介意大家继续学习。
 
+### 关于速查表
 
+GitHub里面还有速查表，自取，不谢。
+
+### 关于进阶
+
+很多朋友之所以学习R语言其实就是为了重复一些简单的数据库挖掘文章，所以我也顺便录制了GEO数据库挖掘课程：
+
+- 代码在：https://github.com/jmzeng1314/geo
+- 配套教学视频在B站：https://www.bilibili.com/video/av26731585/ 
+- 还有一个公共数据库挖掘：https://www.bilibili.com/video/av37568990 
 
 ### 配套练习题
 
